@@ -1,0 +1,5 @@
+name - samurai
+age - 500
+likes - pasta
+from - japan
+interest - anime
